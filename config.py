@@ -1,8 +1,7 @@
 import os
 
-API_ID = API_ID = 9741228
-
-API_HASH = os.environ.get("API_HASH", "6f339e8fa827a5147fa2ff03898d610c")
+API_ID = API_ID = 90864300
+API_HASH = os.environ.get("API_HASH", "50cf66c0625d75b0d2ed21ee68196370")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6287684948:AAFl1ZfAC6McttYkYwYXNf277zu0VrazEDM")
 
