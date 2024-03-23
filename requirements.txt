@@ -9,3 +9,4 @@ ffmpeg
 ffprobe
 asyncio
 humanize
+websockets>=12.0
