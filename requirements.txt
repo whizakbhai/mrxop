@@ -14,7 +14,7 @@ soupsieve==2.4.1
 TgCrypto==1.2.5
 urllib3==2.0.3
 websockets
-git+https://github.com/tvrifaf714/one
+git+https://github.com/yt-dlp/yt-dlp
 motor
 aiohttp==3.8.4
 aiofiles
